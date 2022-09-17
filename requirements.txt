@@ -1,0 +1,7 @@
+Rich
+telethon
+requests
+colorama
+newthon
+pyrogram
+tgcrypto
